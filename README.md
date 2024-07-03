@@ -20,3 +20,24 @@ This template is my preferred starting point for building React web applications
 ## Use & Contributing
 
 If you find this template to be useful for you, be sure to let me know! If you have any issues or suggestions for improvement please submit an issue or pull request.
+
+Use the following commands to get started : )
+
+Clone: 
+```
+git clone https://github.com/mushrune/tg-vite-react-template.git
+cd tg-vite-react-template
+```
+
+Build fresh repository:
+```
+rm -rf .git && git init && npm init
+git add .
+git commit -m "init commit"
+```
+
+Install dependencies and start the app:
+```
+npm install
+npm run dev
+```
